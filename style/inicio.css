@@ -1,0 +1,42 @@
+*{
+  transition-duration: 0.5s !important;
+}
+body{
+  background-image: url("style/img/fondo.png") !important;
+}
+.navbar{
+  width: 100%;
+  height: auto;
+  background-color: #171717 !important;
+  color: #fff;
+  border-bottom: 4px solid #384045;
+  border-bottom: 6px solid #b2132b;
+}
+
+
+.estadisticas{
+  background-image: url(https://grupo-america.com/wp-content/uploads/2020/11/cropped-bolsa.jpg);
+
+}
+
+#salir{
+  background-color: #b2132b;
+  border-radius: 5px;
+}
+
+#salir:hover{
+  background-color: white !important;
+}
+
+
+.card:hover{
+    box-shadow: -1px -1px 13px 6px black !important;
+}
+
+    .card:hover{
+box-shadow: 1px 1px 95px 53px black inset !important;
+}
+
+.card.center.estadisticas:hover{
+box-shadow: 1px 1px 95px 53px black inset !important;
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="shortcut icon" href="style/img/logo.png">
+</head>
+<body>
+	<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Apellido</th>
+      <th>Dni</th>
+      <th>Cuit</th>
+      <th>Domicilio</th>
+      <th>Localidad</th>
+      <th>Telefono</th>
+      <th>Email</th>
+      <th>Actividad laboral</th>
+      <th>Persona</th>
+      <th>Observacion</th>
+    </tr>
+  </thead>
+  <tbody>
+          <tr>
+        <td>Fabricio</td>
+        <td>Pasinato</td>
+        <td>41848226</td>
+        <td>20418482266</td>
+        <td>San luis 2861</td>
+        <td>Rosario </td>
+        <td>03466433867</td>
+        <td>fpasinato6@gmail.com</td>
+        <td>Desarrollador de software </td>
+        <td>fisica</td>
+        <td>Desarrollador de software ssr</td>
+      </tr>
+          <tr>
+        <td>lucio</td>
+        <td>acosta</td>
+        <td>4254887</td>
+        <td>2042548870</td>
+        <td>san luis 2861</td>
+        <td>rosario</td>
+        <td>5185886</td>
+        <td>lucio@america.com</td>
+        <td>desarrollador</td>
+        <td>fisica</td>
+        <td>nada </td>
+      </tr>
+      </tbody>
+</table></body>
+</html>

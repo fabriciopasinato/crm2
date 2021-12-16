@@ -1,0 +1,24 @@
+body{
+	align-items: center;
+	text-align: center;
+	width: 100%;
+}
+form{
+	text-align: left;
+	margin-left: 10%;
+	margin-bottom: 1%;
+	margin-top: 1%;
+}
+table{
+	text-align: center;
+	align-content: center;
+	margin-left: 10%;
+}
+.todoslosclientes{
+	text-align: center;
+}
+@media screen and (max-width: 1200px) {
+ 	table{
+ 		margin-left: 0%	;
+ 	}
+ }

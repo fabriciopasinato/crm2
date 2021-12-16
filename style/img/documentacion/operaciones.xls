@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+	<table>
+	<thead>
+		<tr>
+			<th>Cliente</th>
+			<th>Unidad negocio</th>
+			<th>Asesor</th>
+			<th>Titulo</th>
+			<th>Descripcion</th>
+			<th>Fecha</th>
+			<th>Comision</th>
+			<th>Dinero de transaccion</th>
+		</tr>
+	</thead>
+	<tbody>
+					<tr>
+				<td>lucio acosta</td>
+				<td>America agro</td>
+				<td></td>
+				<td>carlos paz</td>
+				<td>viajde de egresados</td>
+				<td>2021-09-06</td>
+				<td>500</td>
+				<td>50000</td>
+			</tr>
+			</tbody>
+</table></body>
+</html>

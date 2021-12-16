@@ -1,0 +1,171 @@
+/* Add here all your CSS customizations */
+#footer {
+    padding: 20px 0 0;
+}
+#footer .footer-copyright {
+    margin-top: 40px;
+    padding: 0px 0 10px;
+}
+
+.social-icons li.social-icons-facebook a {
+    background: #a6192e;
+    color: #fff !important;
+}
+.social-icons li:hover.social-icons-facebook a {
+    background: #FFF;
+}
+.social-icons li.social-icons-twitter a {
+    background: #a6192e;
+    color: #fff !important;
+}
+.social-icons li:hover.social-icons-twitter a {
+    background: #FFF;
+}
+.social-icons li.social-icons-linkedin a {
+    background: #a6192e;
+    color: #fff !important;
+}
+.social-icons li:hover.social-icons-linkedin a {
+    background: #FFF;
+}
+
+.social-icons li:hover a {
+    color: #a6192e !important;
+}
+
+.toggle > label + p {
+    color: #333;
+}
+.call-to-action.call-to-action-in-footer {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.icon-ai {
+  display: block;
+  xtext-indent: -9999px;
+  xwidth: 100px;
+  xheight: 82px;
+  background: url(img/brain.svg);
+  xbackground-size: 100px 82px;
+}
+
+p {
+	xcolor: #777;
+	color: #444;
+}
+footer p {
+	color: #777;
+}
+
+
+.pais > li {
+    float: right !important;
+}
+
+#loginselector{
+  float: right; 
+  width: 185px; 
+  background-color:#A6192E;
+  font-size: 0.9em;
+  color: #fff;
+}
+#loginselector a{
+  color: #FFF;
+}
+#loginselector a:hover{
+  text-decoration: none; 
+  color: #bababa;
+}
+
+.hidden{
+  visibility: hidden;
+}
+
+#navbg{
+  z-index: 1;
+  position: absolute; 
+  xxposition: relative; 
+  top: 134px; 
+  left: -100%; 
+  background-color: #fff; 
+  background-position:100px 200px; 
+  height:145px; 
+  width:300%;"
+}
+html.sticky-header-enabled #navbg {
+  height:145px; 
+}
+
+#header .header-nav-main nav > ul > li.dropdown .dropdown-menu {
+	border-radius: 0 4px 4px !important;
+	border-top: 0px solid #FFF !important;
+	box-shadow: 0 20px 45px rgba(0, 0, 0, 0)  !important;
+}
+
+
+
+#header .header-body {
+	border-top: 0;
+}
+#header .header-nav-main nav > ul > li:hover > a {
+	color: #adb3c2 !important;
+}
+#header .header-nav-main nav > ul > li:hover > a.dropdown-toggle:after {
+	border-color: #adb3c2 transparent transparent transparent;
+}
+#header .header-nav-main nav > ul > li.active > a {
+	color: #777 !important;
+}
+#header .header-nav-main nav > ul > li a {
+	background: none !important;
+}
+#header .header-nav-main nav > ul > li a:focus, #header .header-nav-main nav > ul > li a:active {
+	color: #adb3c2 !important;
+}
+#header .header-nav-main nav > ul > li ul.custom-dropdown-menu-style-1 {
+	background-color: #182027;
+	border-top: none !important;
+	box-shadow: none !important;
+}
+#header .header-nav-main nav > ul > li ul.custom-dropdown-menu-style-1 li:last-child > a {
+	border-bottom: none !important;
+}
+#header .header-nav-main nav > ul > li ul.custom-dropdown-menu-style-1 li > a {
+	border-bottom: none;
+	color: #777;
+}
+#header .header-nav-main nav > ul > li ul.custom-dropdown-menu-style-1 li > a:hover {
+	background: none !important;
+}
+#header .header-nav-main nav > ul > li ul.custom-dropdown-menu-style-1 li > a > i {
+	float: right;
+}
+#header .header-btn-collapse-nav {
+	border-radius: 50%;
+	height: 34px;
+	width: 34px;
+	padding: 0;
+	margin-top: 14px;
+}
+
+
+
+
+
+
+@media (min-width: 992px){
+  .col-md-1 {
+    width: 12%;
+  }
+}
+
+
+@media (max-width: 992px){
+  #navbg{
+    visibility: hidden: 1;
+    position: absolute; 
+    height:1px; 
+    width:1px;"
+  }  
+}
